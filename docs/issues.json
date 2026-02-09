@@ -1,13 +1,13 @@
 {
  "closed_per_month": {
   "1": 1,
-  "2": 0
+  "2": 2
  },
  "open_per_repo": {
   "adlam": 3,
   "ahom": 6,
   "anatolian-hieroglyphs": 1,
-  "arabic": 17,
+  "arabic": 18,
   "armenian": 1,
   "balinese": 4,
   "batak": 5,
@@ -46,7 +46,7 @@
   "khojki": 1,
   "khudawadi": 1,
   "lao": 1,
-  "latin-greek-cyrillic": 151,
+  "latin-greek-cyrillic": 150,
   "limbu": 2,
   "malayalam": 6,
   "mandaic": 2,
@@ -68,7 +68,7 @@
   "old-italic": 1,
   "old-turkic": 1,
   "old-uyghur": 4,
-  "oriya": 2,
+  "oriya": 1,
   "osmanya": 1,
   "pau-cin-hau": 1,
   "phags-pa": 1,
@@ -91,7 +91,7 @@
   "takri": 1,
   "tamil": 2,
   "tangsa": 1,
-  "tangut": 3,
+  "tangut": 4,
   "telugu": 3,
   "thaana": 3,
   "thai": 5,
@@ -104,15 +104,15 @@
   "znamenny": 3
  },
  "open_per_tier": {
-  "1": 264,
+  "1": 263,
   "2": 56,
   "3": 140,
   "4": 62,
-  "5": 38
+  "5": 39
  },
  "opened_per_month": {
   "1": 10,
-  "2": 0
+  "2": 2
  },
  "releases_per_month": {
   "1": [
@@ -153,6 +153,10 @@
    {
     "tag": "NotoSansGeorgian-v2.004",
     "url": "https://github.com/notofonts/georgian/releases/tag/NotoSansGeorgian-v2.004"
+   },
+   {
+    "tag": "NotoSansOriya-v2.007",
+    "url": "https://github.com/notofonts/oriya/releases/tag/NotoSansOriya-v2.007"
    },
    {
     "tag": "NotoSansThaiLooped-v2.000",
