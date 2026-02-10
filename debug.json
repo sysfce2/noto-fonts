@@ -873,8 +873,13 @@
   "families_count": 5,
   "gh_url": "https://notofonts.github.io/arabic",
   "has_releases": true,
-  "issue_count": 18,
+  "issue_count": 19,
   "issues": [
+   {
+    "number": 279,
+    "title": "Madda crossover 2",
+    "url": "https://github.com/notofonts/arabic/issues/279"
+   },
    {
     "number": 278,
     "title": "Incomplete implementation of U+0620 KASHMIRI YEH fix across Noto Arabic fonts",
