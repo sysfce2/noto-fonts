@@ -878,8 +878,13 @@
   "families_count": 5,
   "gh_url": "https://notofonts.github.io/arabic",
   "has_releases": true,
-  "issue_count": 20,
+  "issue_count": 21,
   "issues": [
+   {
+    "number": 281,
+    "title": "Fixes Kurdish lam-alef ligature in Noto Sans Arabic UI fonts",
+    "url": "https://github.com/notofonts/arabic/pull/281"
+   },
    {
     "number": 280,
     "title": "The wandering wasla",
