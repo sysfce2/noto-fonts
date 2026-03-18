@@ -2565,6 +2565,11 @@
   "gh_url": "https://notofonts.github.io/coptic",
   "issues": [
    {
+    "number": 17,
+    "title": "request for a monospace and serif version",
+    "url": "https://github.com/notofonts/coptic/issues/17"
+   },
+   {
     "number": 16,
     "title": "Marks block raised middle dot",
     "url": "https://github.com/notofonts/coptic/issues/16"

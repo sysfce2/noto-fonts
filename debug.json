@@ -3268,8 +3268,13 @@
   "families_count": 1,
   "gh_url": "https://notofonts.github.io/coptic",
   "has_releases": true,
-  "issue_count": 2,
+  "issue_count": 3,
   "issues": [
+   {
+    "number": 17,
+    "title": "request for a monospace and serif version",
+    "url": "https://github.com/notofonts/coptic/issues/17"
+   },
    {
     "number": 16,
     "title": "Marks block raised middle dot",
