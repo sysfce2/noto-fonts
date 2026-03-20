@@ -11545,6 +11545,11 @@
   "gh_url": "https://notofonts.github.io/mongolian",
   "issues": [
    {
+    "number": 46,
+    "title": "The GitHub Pages autodeployment has failed",
+    "url": "https://github.com/notofonts/mongolian/issues/46"
+   },
+   {
     "number": 32,
     "title": "Weights?",
     "url": "https://github.com/notofonts/mongolian/issues/32"
